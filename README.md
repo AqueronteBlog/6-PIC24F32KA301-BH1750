@@ -10,3 +10,6 @@ Este firmware está probado para el PIC24F32KA301.
 
 MPLAB X IDE v2.35.
 Compiler XC16 v1.22.
+
+
+El proyecto completo se encuentra en la siguiente dirección: http://unbarquero.blogspot.com.es/2015/04/microchip-pic-i2c-bh1750-pic24f32ka301.html
